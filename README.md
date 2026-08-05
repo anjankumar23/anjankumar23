@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjan Kumar</h1>
+<h1 align="center">Hi, I'm Anjan Kumar</h1>
 <h3 align="center">B.Tech @ IIT Kharagpur | C++ Developer | Backend Enthusiast | AI Explorer</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 B.Tech in Civil Engineering at **IIT Kharagpur**
 
-💻 Passionate about **Backend Development** and **Data Structures & Algorithms**
+💻 Passionate about **Data Analysis** and **Data Structures & Algorithms**
 
-🌱 Currently learning
+ Currently learning
 
 - Backend Development
-- System Design
+- AI/ML
 - SQL
 - REST APIs
 
